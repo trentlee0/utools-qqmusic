@@ -1,0 +1,13 @@
+{
+  "pluginName": "QQMusic",
+  "author": "Trent0",
+  "homepage": "https://github.com/trentlee0/utools-qqmusic",
+  "description": "QQ 音乐的一些快捷操作",
+  "version": "1.0.0",
+  "logo": "icon/logo.png",
+  "preload": "preload.js",
+  "platform": [
+    "darwin"
+  ],
+  "features": []
+}
